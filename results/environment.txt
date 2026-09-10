@@ -1,0 +1,8 @@
+Python 3.12.14
+Windows-10-10.0.19045-SP0
+Clock: time.perf_counter
+Repeats: 5
+Sizes: [1000, 5000, 10000, 20000, 50000, 100000]
+Prepend batch: 50 (size increases from n to n+50)
+Get batch: 200
+Preparation and correctness checks excluded; GC collected before timing, enabled during timing
